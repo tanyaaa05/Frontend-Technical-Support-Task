@@ -1,0 +1,16 @@
+{
+  "name": "frontend-technical-support-task",
+  "version": "1.0.0",
+  "description": "This project is a submission for a Frontend Technical Support role. It includes a beautiful interactive UI and a simple backend to handle user selections.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
