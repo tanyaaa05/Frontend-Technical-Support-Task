@@ -38,9 +38,6 @@ interactive-boxes-fullstack/
 
 3. Make sure your backend is running on `http://localhost:3000`
 
-## 📸 Preview
-
-![preview](https://via.placeholder.com/800x400.png?text=Interactive+Boxes+Preview)
 
 ## 📬 Author
 
